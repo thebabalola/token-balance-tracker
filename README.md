@@ -2,6 +2,8 @@
 
 A simple smart contract that works like a basic bank, keeping track of token balances for different accounts.
 
+![Successful Build](successful-build.png)
+
 ## What it does
 
 This contract allows you to:
